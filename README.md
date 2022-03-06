@@ -2,7 +2,7 @@
 
 My name is Mathias, greetings from Argentina.
 
-* I'm an economics student, currently working as a Tax Analyst. 
+* I'm an advanced economics student, currently working as a Tax Analyst. 
 * I'm an enthusiast of mathematics, economics/finances-capital markets, data science and programming ⚡
 
 ## Contact 
